@@ -1,4 +1,4 @@
-# ccna-labs
+## CCNA Labs
 CCNA 200-120 Labs
 
 <h3><em>CCNA Routing & Switching 200-120</em></h3>
